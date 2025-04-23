@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo-white-center.svg" alt="State Space Logo" width="700"/>
+  <img src="logo-white-center.svg" alt="State Space Logo" width="700"/>
 </p>
 
 <p align="center">  
@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="images/Workbench.png" alt="State Space Workbench" width="700">
+  <img src="Workbench.png" alt="State Space Workbench" width="700">
 </p>
 
 ## Table of Contents
