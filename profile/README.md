@@ -10,7 +10,7 @@
 
 <p align="left">  
     <a href="https://docs.state.space"><img src="https://img.shields.io/badge/Platform-Web-blue)" alt="State Space"></a>
-    <a href="https://state.space/sign-up"><img src="https://img.shields.io/badge/Login-Here-brightgreen)" alt="State Space"></a>
+    <a href="https://docs.state.space/docs/overview/features"><img src="https://img.shields.io/badge/EVM-Compatible-brightgreen)" alt="State Space"></a>
     <a href="https://docs.state.space"><img src="https://img.shields.io/badge/Docs-Available-orange" alt="State Space"></a>
 
 </p>
